@@ -2,15 +2,6 @@
 
 This project is focused on forecasting financial time series data for Apple Inc. (AAPL), Honeywell (HON), and dry wine prices. It leverages statistical models such as exponential smoothing and ARIMA to make predictions and assess the effectiveness of these methods.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Project Structure](#project-structure)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Running the R Scripts](#running-the-r-scripts)
-- [Conclusion](#conclusion)
-- [References](#references)
-
 ## Introduction
 
 The aim of this project is to forecast the stock prices of Apple Inc. (AAPL) and Honeywell (HON), as well as dry wine prices using time series models. By performing statistical tests and evaluating forecasting errors, we analyze the accuracy of different forecasting methods including exponential smoothing and auto.arima().
